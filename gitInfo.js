@@ -67,7 +67,7 @@ let gitAddCode = "git add ."
 
 let gitCommitDefinition = "git commit is a git command that saves a snapshot of a repo, tracking any changes and allowing you to go back to that point in the future if you need to. Usually you include a short message explaining the changes since last commit."
 
-let gitCommitCode = git commit -m "Initial commit"
+let gitCommitCode = 'git commit -m "Initial commit"'
 
 //////////////////PROBLEM 8////////////////////
 /*
